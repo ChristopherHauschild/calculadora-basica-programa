@@ -4,7 +4,7 @@ Os códigos desta calculadora foram desenvolvidos através de tutorial disponibi
 
 <hr>
 <p align="center">
-  <img src="https://github.com/ChristopherHauschild/calculadora-basica-programa/blob/master/calc.gif?raw=true" width="830" height="440"/></p>
+  <img src="https://github.com/ChristopherHauschild/calculadora-basica-programa/blob/master/calc.gif?raw=true" width="930" height="440"/></p>
 
 ## Linguagens e tecnologias utilizadas: :computer:
 <ul>
